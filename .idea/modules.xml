@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RecipeBookApp.iml" filepath="$PROJECT_DIR$/.idea/modules/RecipeBookApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/RecipeBookApp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/RecipeBookApp.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RecipeBookApp.buildSrc.iml" filepath="$PROJECT_DIR$/.idea/modules/RecipeBookApp.buildSrc.iml" />
+    </modules>
+  </component>
+</project>
